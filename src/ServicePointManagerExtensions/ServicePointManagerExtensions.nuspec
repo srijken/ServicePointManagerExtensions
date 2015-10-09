@@ -4,13 +4,13 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>srijken</authors>
+    <owners>srijken</owners>
     <licenseUrl>https://github.com/srijken/ServicePointManagerExtensions/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/srijken/ServicePointManagerExtensions</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Utilities to help debug/adjust ServicePointManager.</releaseNotes>
+    <description>Utilities to help debug/adjust ServicePointManager.</description>
+    <releaseNotes></releaseNotes>
     <copyright>Copyright 2015</copyright>
     <tags>ServicePointManager</tags>
   </metadata>
