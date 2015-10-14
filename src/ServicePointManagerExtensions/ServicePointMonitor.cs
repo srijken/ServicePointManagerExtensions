@@ -6,7 +6,7 @@ using System.Net;
 using System.Reflection;
 using System.Threading;
 
-namespace ServicePointExtensions
+namespace ServicePointManagerExtensions
 {
     public class ServicePointMonitor
     {

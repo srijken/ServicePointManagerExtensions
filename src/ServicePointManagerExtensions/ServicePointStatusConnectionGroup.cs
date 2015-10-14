@@ -1,4 +1,4 @@
-namespace ServicePointExtensions
+namespace ServicePointManagerExtensions
 {
     public sealed class ServicePointStatusConnectionGroup
     {

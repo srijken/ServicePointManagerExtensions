@@ -7,8 +7,8 @@
     <ProjectGuid>{8EB770E7-9215-4790-B365-ECB5A19406B7}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ServicePointExtensions</RootNamespace>
-    <AssemblyName>ServicePointExtensions</AssemblyName>
+    <RootNamespace>ServicePointManagerExtensions</RootNamespace>
+    <AssemblyName>ServicePointManagerExtensions</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace ServicePointExtensions
+namespace ServicePointManagerExtensions
 {
     public sealed class ServicePointStatusServicePoint
     {
