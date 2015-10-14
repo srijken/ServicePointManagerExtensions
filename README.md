@@ -1,6 +1,6 @@
 # ServicePointManagerExtensions
 
-# Sample
+## Sample code
 
 Here's how the code can be used in a Windows Azure project; reporting high connection counts to a 3rd party service.
 
@@ -31,7 +31,7 @@ Here's how the code can be used in a Windows Azure project; reporting high conne
                                   });
     }
 
-# References
+## References
 
 ServicePointMonitor was based on the [blog post by Freek Paans][1] about starving outgoing connections in Windows Azure Web Sites.
 
