@@ -35,4 +35,4 @@ Here's how the code can be used in a Windows Azure project; reporting high conne
 
 ServicePointMonitor was based on the [blog post by Freek Paans][1] about starving outgoing connections in Windows Azure Web Sites.
 
-[1]: www.freekpaans.nl/2015/08/starving-outgoing-connections-on-windows-azure-web-sites/
+[1]: http://www.freekpaans.nl/2015/08/starving-outgoing-connections-on-windows-azure-web-sites/
